@@ -6,7 +6,7 @@ I’m Melisa,
 
 🎓  soon-to-be graduate from Northwestern University, with a Bachelor of Science in Computer Science and a minor in Economics
 
-🧐  I'm particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.
+🧐  particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.
 
 📫 Email: melisaozdoyuran@gmail.com
 
