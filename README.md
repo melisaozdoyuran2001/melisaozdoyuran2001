@@ -8,9 +8,9 @@ I’m Melisa,
 
 🧐  I'm particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.
 
-📫 email: melisaozdoyuran@gmail.com
+📫 Email: melisaozdoyuran@gmail.com
 
-💬 linkedin: https://www.linkedin.com/in/melisa-ozdoyuran/
+💬 Linkedin: https://www.linkedin.com/in/melisa-ozdoyuran/
 
 🌸 Website: https://melisaozdoyuran.appspot.com/
 
