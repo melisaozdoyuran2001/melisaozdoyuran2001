@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I’m Melisa, 
+ 💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions
+ 🎓  soon-to-be graduate from Northwestern University, with a Bachelor of Science in Computer Science and a minor in Economics
+ 📫 How to reach me: melisaozdoyuran@gmail.com
+ 
+
+
 <!--
 **melisaozdoyuran2001/melisaozdoyuran2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
