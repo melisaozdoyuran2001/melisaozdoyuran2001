@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there 👱🏼‍♀️👋
 
 I’m Melisa,
 
 
-💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions
+💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions, My main focus is on the convergence of design development, software engineering,and project management. I'm particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.
 
 🎓  soon-to-be graduate from Northwestern University, with a Bachelor of Science in Computer Science and a minor in Economics
 
-📫 How to reach me: melisaozdoyuran@gmail.com
+📫 email: melisaozdoyuran@gmail.com
+
+💬 linkedin: https://www.linkedin.com/in/melisa-ozdoyuran/
+
  
 
 
