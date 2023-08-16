@@ -1,6 +1,6 @@
-### Hi there 👱🏼‍♀️👋
+### Hi there 👱🏼‍♀️🍦
 
-I’m Melisa,
+## I’m Melisa,
 
 💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions
 
