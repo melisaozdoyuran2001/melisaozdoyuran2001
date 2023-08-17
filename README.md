@@ -1,12 +1,14 @@
-## Hi there 👱🏼‍♀️🍦
+## Hi there 👩‍💻🌼
 
 ### I’m Melisa,
 
-💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions– if I don't find it fun, I make it fun!
+💻 a dedicated software engineer who thrives on marrying creativity with innovation. My passion lies in designing user-centric solutions that are not only efficient but also enjoyable. If a challenge isn't inherently fun, I have a knack for turning it into a delightful experience.
 
-🎓  soon-to-be graduate from Northwestern University, with a Bachelor of Science in Computer Science and a minor in Economics
+🎓  on the cusp of graduating from Northwestern University, where I've pursued a Bachelor of Science in Computer Science, complemented by a minor in Economics.
 
 🧐  particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.
+
+### 🔗 Connect with me:
 
 📫 Email: melisaozdoyuran@gmail.com
 
