@@ -2,7 +2,7 @@
 
 ### I’m Melisa,
 
-💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions
+💻 a creative and driven software engineer passionate about crafting innovative, user-focused solutions– if I don't find it fun, I make it fun!
 
 🎓  soon-to-be graduate from Northwestern University, with a Bachelor of Science in Computer Science and a minor in Economics
 
