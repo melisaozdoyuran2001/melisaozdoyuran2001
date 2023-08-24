@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👩‍💻🌼! </h2>
-<p align="left">I'm Melisa, a dedicated software engineer who thrives on joining creativity with innovation. </p>
+<h2 align="left">I'm Melisa, a dedicated software engineer who thrives on joining creativity with innovation. </h2>
  
 
 ###
