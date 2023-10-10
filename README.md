@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="melisaozdoyuran@hotmail.com" target="_blank">
-    <img width="1439" alt="Screen Shot 2023-10-10 at 3 09 53 PM" src="https://github.com/melisaozdoyuran2001/melisaozdoyuran2001/assets/123209674/d5890de3-84e1-4d2b-b692-438dce13de0e">
+   
 
   </a>
 </div>
