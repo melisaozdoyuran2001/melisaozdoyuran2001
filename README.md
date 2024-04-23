@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👩‍💻🌼! </h2>
 <h2 >I'm Melisa, a dedicated software engineer who thrives on joining creativity with innovation. </h2>
- 
+ <br>Personal Website: melisaozdoyuran.appspot.com</p>
+
 
 ###
 
-<p align="left">🎓 graduating soon from Northwestern University, where I've pursued a Bachelor of Science in Computer Science, complemented by a minor in Economics.<br><br>🧐 particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.<br><br>PORTFOLIO: melisaozdoyuran.appspot.com</p>
-
+<p align="left">🎓 graduating soon from Northwestern University, where I've pursued a Bachelor of Science in Computer Science, complemented by a minor in Economics.<br><br>🧐 particularly interested in the blend of UI/UX design principles with the technical aspects of software, web, and app development when creating successful, user-centered products.<br>
 ###
 
 <div align="left">
