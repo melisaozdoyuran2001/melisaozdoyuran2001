@@ -3,7 +3,7 @@
  <br>Personal Website: melisaozdoyuran.appspot.com</p>
 
 
-<p align="left">🎓 I’m a software engineer passionate about creating, optimizing and solving complex problems. With experience in full-stack development, AI integration, and product design, I enjoy projects from concept to deployment. .<br><br>🧐 I love working in fast-paced environments where I can combine technical precision with creative ideas, building everything from health tech platforms to immersive VR experiences. I’m always looking for new concepts to learn, opportunities to collaborate, and challenges to tackle, driven by the goal of building technology that makes a real impact<br>
+<p align="left">🎓 I’m a software engineer recently graduated from Northwestern University passionate about creating, optimizing and solving complex problems. With experience in full-stack development, AI integration, and product design, I enjoy projects from concept to deployment. .<br><br>🧐 I love working in fast-paced environments where I can combine technical precision with creative ideas, building everything from health tech platforms to immersive VR experiences. I’m always looking for new concepts to learn, opportunities to collaborate, and challenges to tackle, driven by the goal of building technology that makes a real impact<br>
 ###
 
 <div align="left">
