@@ -3,7 +3,7 @@
 
 
 <p align="left">🎓 I’m a software engineer recently graduated from Northwestern University passionate about creating, optimizing and solving complex problems. With experience in full-stack development, AI integration, and product design, I enjoy projects from concept to deployment. .<br><br>🧐 I love working in fast-paced environments where I can combine technical precision with creative ideas, building everything from health tech platforms to immersive VR experiences.<br>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,11 +45,11 @@
   </a>
 </div>
 
-
+###
 
 <br clear="both">
 
-
+###
 
 <!--
 **melisaozdoyuran2001/melisaozdoyuran2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
