@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👩‍💻🌼! </h2>
- <br>Personal Website: melisaozdoyuran.appspot.com</p>
+ <br>Personal Website: melisaozdoyuran.com</p>
 
 
 <p align="left">🎓 I’m a software engineer recently graduated from Northwestern University passionate about creating, optimizing and solving complex problems. With experience in full-stack development, AI integration, and product design, I enjoy projects from concept to deployment. .<br><br>🧐 I love working in fast-paced environments where I can combine technical precision with creative ideas, building everything from health tech platforms to immersive VR experiences.<br>
